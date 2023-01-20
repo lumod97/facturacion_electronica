@@ -13,6 +13,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://lumod97.github.io/facturacion_electronica
-git push -f https://github.com/lumod97/facturacion_electronica.git master:gh-pages
+git push -f https://github.com/lumod97/facturacion_electronica.git master:main
 
 cd -
